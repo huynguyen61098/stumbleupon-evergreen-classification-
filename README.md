@@ -8,5 +8,5 @@
 * run python -m src.predict to generate the submission file for the competition submisson
 
 ## Note 
-* You maybe need to change the input and output location that fit your local directory
+* You need to change the input and output location that fit your local directory
 
